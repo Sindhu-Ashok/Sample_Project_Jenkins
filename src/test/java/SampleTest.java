@@ -9,5 +9,6 @@ public class SampleTest
 		Reporter.log("Heyyy",true);
 		Reporter.log("Heyy-Heyyy",true);
 		Reporter.log("Heyyy-Heyyy-Heyyy",true);
+		Reporter.log("Byyeee",true);
 	}
 }

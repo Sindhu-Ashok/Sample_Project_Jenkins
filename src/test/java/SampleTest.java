@@ -1,8 +1,8 @@
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
+//Changes from Branch1
 public class SampleTest 
-	//CHANGES
 {
 	@Test
 	public void testName() throws Exception 
@@ -13,4 +13,3 @@ public class SampleTest
 		Reporter.log("Byyeee",true);
 	}
 }
-//CHANGESSS

@@ -2,6 +2,7 @@ import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 public class SampleTest 
+	//CHANGES
 {
 	@Test
 	public void testName() throws Exception 

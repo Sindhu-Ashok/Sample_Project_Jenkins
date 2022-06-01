@@ -1,8 +1,7 @@
 import org.testng.Reporter;
 import org.testng.annotations.Test;
-
-public class SampleTest 
-	//CHANGES
+//Changes in B2
+public class SampleTest
 {
 	@Test
 	public void testName() throws Exception 
@@ -13,4 +12,3 @@ public class SampleTest
 		Reporter.log("Byyeee",true);
 	}
 }
-//CHANGESSS

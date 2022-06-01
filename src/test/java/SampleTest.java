@@ -1,6 +1,9 @@
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
+//Changes in B2
+public class SampleTest
+
 //Changes from Branch1
 public class SampleTest 
 {
